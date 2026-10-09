@@ -1,0 +1,12 @@
+f = open ("numbers.txt", "r", encoding= "utf-8")
+data = f.read()
+data = data.split()
+numbers = [int(x) for x in data]
+max_val = max(numbers)
+min_val = min(numbers)
+print("min: " + str(min_val) + " max: " + str(max_val))
+f.close()
+f_out = open("output.txt", "w", encoding="utf-8")
+f_out.write("So lon nhat: " + str(max_val) + "\n")
+f_out.write("So nho nhat: " + str(min_val) + "\n")
+f_out.close()
