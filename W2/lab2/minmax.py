@@ -1,6 +1,7 @@
 f = open ("numbers.txt", "r", encoding= "utf-8")
 data = f.read()
 data = data.split()
+print(data)
 numbers = [int(x) for x in data]
 max_val = max(numbers)
 min_val = min(numbers)
