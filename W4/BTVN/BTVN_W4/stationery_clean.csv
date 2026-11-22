@@ -1,0 +1,134 @@
+﻿OrderID,OrderDate,Product,Category,City,PaymentMethod,Quantity,UnitPrice,Discount
+ORD0001,2026-04-26,Notebook A5,Stationery,Ha Noi,Bank Transfer,2.0,15000.0,0.05
+ORD0002,2026-05-08,File Folder,Office Supplies,Ho Chi Minh,E-Wallet,3.0,22000.0,0.15
+ORD0003,2026-06-25,Notebook A5,Stationery,Hai Phong,Bank Transfer,4.0,15000.0,0.05
+ORD0004,2026-04-27,English Grammar Book,Books,Ha Noi,Bank Transfer,4.0,120000.0,0.1
+ORD0005,2026-02-10,Notebook A5,Stationery,Ha Noi,Bank Transfer,4.0,15000.0,0.0
+ORD0006,2026-03-26,Ballpoint Pen,Stationery,Ha Noi,Cash,11.0,5000.0,0.0
+ORD0007,2026-03-20,Python Basics Book,Books,Ho Chi Minh,Cash,2.0,185000.0,0.15
+ORD0008,2026-04-06,File Folder,Office Supplies,Ho Chi Minh,E-Wallet,7.0,22000.0,0.05
+ORD0010,2026-01-15,Highlighter,Stationery,Da Nang,Cash,11.0,12000.0,0.0
+ORD0011,2026-04-15,English Grammar Book,Books,Ho Chi Minh,E-Wallet,2.0,120000.0,0.15
+ORD0012,2026-01-07,Python Basics Book,Books,Ha Noi,Bank Transfer,3.0,185000.0,0.0
+ORD0013,2026-05-03,Ballpoint Pen,Stationery,Ha Noi,Bank Transfer,120.0,5000.0,0.15
+ORD0014,2026-06-08,File Folder,Office Supplies,Ho Chi Minh,Bank Transfer,1.0,22000.0,0.05
+ORD0015,2026-06-13,Ballpoint Pen,Stationery,Hai Phong,Cash,4.0,5000.0,0.0
+ORD0016,2026-05-14,File Folder,Office Supplies,Ha Noi,Bank Transfer,3.0,22000.0,0.0
+ORD0017,2026-06-23,File Folder,Office Supplies,Can Tho,Bank Transfer,5.0,22000.0,0.0
+ORD0018,2026-02-18,Sketchbook,Art Supplies,Ho Chi Minh,Cash,2.0,55000.0,0.0
+ORD0019,2026-03-30,Stapler,Office Supplies,Ho Chi Minh,Cash,1.0,45000.0,0.15
+ORD0021,2026-02-04,Watercolor Set,Art Supplies,Hai Phong,E-Wallet,1.0,95000.0,0.05
+ORD0022,2026-01-13,Stapler,Office Supplies,Hai Phong,Cash,6.0,45000.0,0.05
+ORD0024,2026-03-02,File Folder,Office Supplies,Ha Noi,E-Wallet,4.0,22000.0,0.0
+ORD0025,2026-02-28,Python Basics Book,Books,Da Nang,Bank Transfer,4.0,185000.0,0.05
+ORD0026,2026-03-27,Ballpoint Pen,Stationery,Ho Chi Minh,Cash,11.0,5000.0,0.0
+ORD0027,2026-02-11,English Grammar Book,Books,Ha Noi,E-Wallet,2.0,120000.0,0.15
+ORD0028,2026-05-21,Highlighter,Stationery,Ho Chi Minh,Cash,14.0,12000.0,0.0
+ORD0029,2026-05-29,Stapler,Office Supplies,Ha Noi,Bank Transfer,3.0,45000.0,0.0
+ORD0030,2026-04-07,Stapler,Office Supplies,Can Tho,Cash,8.0,45000.0,0.1
+ORD0031,2026-05-10,Stapler,Office Supplies,Can Tho,Bank Transfer,6.0,45000.0,0.1
+ORD0032,2026-04-06,Python Basics Book,Books,Unknown,Bank Transfer,3.0,185000.0,0.0
+ORD0033,2026-02-09,Sketchbook,Art Supplies,Ho Chi Minh,Bank Transfer,2.0,55000.0,0.05
+ORD0034,2026-01-11,Notebook A5,Stationery,Ho Chi Minh,Bank Transfer,3.0,15000.0,0.15
+ORD0035,2026-05-01,Notebook A5,Stationery,Ho Chi Minh,E-Wallet,11.0,15000.0,0.0
+ORD0036,2026-05-01,Notebook A5,Stationery,Ha Noi,Bank Transfer,7.0,15000.0,0.1
+ORD0037,2026-05-22,Notebook A5,Stationery,Ha Noi,Cash,8.0,15000.0,0.05
+ORD0038,2026-04-14,Notebook A5,Stationery,Ha Noi,Cash,80.0,15000.0,0.15
+ORD0039,2026-04-13,Highlighter,Stationery,Hai Phong,E-Wallet,8.0,12000.0,0.05
+ORD0040,2026-02-22,Calculator,Office Supplies,Can Tho,Cash,1.0,250000.0,0.0
+ORD0041,2026-05-11,File Folder,Office Supplies,Can Tho,E-Wallet,2.0,22000.0,0.1
+ORD0043,2026-01-30,Highlighter,Stationery,Ha Noi,Bank Transfer,9.0,12000.0,0.1
+ORD0044,2026-01-05,Stapler,Office Supplies,Hai Phong,Cash,5.0,45000.0,0.0
+ORD0045,2026-03-06,Notebook A5,Stationery,Da Nang,E-Wallet,15.0,15000.0,0.0
+ORD0046,2026-03-25,File Folder,Office Supplies,Da Nang,Cash,2.0,22000.0,0.1
+ORD0047,2026-06-12,Notebook A5,Stationery,Can Tho,Cash,14.0,15000.0,0.0
+ORD0049,2026-06-16,Notebook A5,Stationery,Ha Noi,Cash,7.0,15000.0,0.0
+ORD0050,2026-01-22,English Grammar Book,Books,Ha Noi,Bank Transfer,2.0,120000.0,0.05
+ORD0051,2026-04-15,Highlighter,Stationery,Hai Phong,Bank Transfer,9.0,12000.0,0.0
+ORD0052,2026-01-05,Ballpoint Pen,Stationery,Can Tho,Bank Transfer,14.0,5000.0,0.0
+ORD0053,2026-03-08,Sticky Notes,Stationery,Ho Chi Minh,E-Wallet,9.0,18000.0,0.1
+ORD0055,2026-01-26,Sticky Notes,Stationery,Ho Chi Minh,Bank Transfer,9.0,18000.0,0.0
+ORD0056,2026-02-11,Ballpoint Pen,Stationery,Hai Phong,Cash,3.0,5000.0,0.0
+ORD0057,2026-06-15,Ballpoint Pen,Stationery,Ha Noi,E-Wallet,2.0,5000.0,0.0
+ORD0058,2026-03-25,Sketchbook,Art Supplies,Ha Noi,E-Wallet,3.0,55000.0,0.15
+ORD0060,2026-02-06,English Grammar Book,Books,Can Tho,Bank Transfer,1.0,120000.0,0.0
+ORD0061,2026-06-19,Ballpoint Pen,Stationery,Hai Phong,E-Wallet,2.0,5000.0,0.0
+ORD0062,2026-01-26,Python Basics Book,Books,Ho Chi Minh,Bank Transfer,2.0,185000.0,0.0
+ORD0063,2026-05-17,Sticky Notes,Stationery,Ho Chi Minh,Cash,7.0,18000.0,0.1
+ORD0064,2026-06-27,Watercolor Set,Art Supplies,Da Nang,E-Wallet,3.0,95000.0,0.15
+ORD0065,2026-05-21,Ballpoint Pen,Stationery,Ha Noi,Bank Transfer,200.0,5000.0,0.15
+ORD0066,2026-01-27,Sticky Notes,Stationery,Ha Noi,Cash,14.0,18000.0,0.1
+ORD0067,2026-04-03,Ballpoint Pen,Stationery,Da Nang,E-Wallet,5.0,5000.0,0.0
+ORD0068,2026-05-13,Ballpoint Pen,Stationery,Ho Chi Minh,Bank Transfer,6.0,5000.0,0.05
+ORD0069,2026-03-12,English Grammar Book,Books,Ha Noi,Cash,3.0,120000.0,0.0
+ORD0070,2026-06-24,Calculator,Office Supplies,Can Tho,E-Wallet,1.0,250000.0,0.0
+ORD0071,2026-03-14,Notebook A5,Stationery,Ha Noi,Cash,2.0,15000.0,0.0
+ORD0072,2026-05-14,Calculator,Office Supplies,Ha Noi,E-Wallet,1.0,250000.0,0.1
+ORD0074,2026-03-15,Calculator,Office Supplies,Can Tho,Bank Transfer,4.0,250000.0,0.0
+ORD0075,2026-05-09,Stapler,Office Supplies,Ha Noi,E-Wallet,5.0,45000.0,0.15
+ORD0076,2026-06-20,Sketchbook,Art Supplies,Hai Phong,E-Wallet,4.0,55000.0,0.15
+ORD0078,2026-04-17,Notebook A5,Stationery,Can Tho,Cash,9.0,15000.0,0.0
+ORD0079,2026-01-14,File Folder,Office Supplies,Ha Noi,Cash,2.0,22000.0,0.0
+ORD0080,2026-03-03,Notebook A5,Stationery,Ho Chi Minh,Bank Transfer,11.0,15000.0,0.0
+ORD0081,2026-01-31,Stapler,Office Supplies,Da Nang,E-Wallet,2.0,45000.0,0.0
+ORD0082,2026-04-16,Highlighter,Stationery,Ho Chi Minh,E-Wallet,15.0,12000.0,0.15
+ORD0083,2026-03-09,Notebook A5,Stationery,Ho Chi Minh,E-Wallet,14.0,15000.0,0.0
+ORD0084,2026-06-16,Sketchbook,Art Supplies,Can Tho,Bank Transfer,4.0,55000.0,0.0
+ORD0085,2026-04-29,Notebook A5,Stationery,Ho Chi Minh,Bank Transfer,13.0,15000.0,0.15
+ORD0087,2026-04-19,Sketchbook,Art Supplies,Ho Chi Minh,E-Wallet,5.0,55000.0,0.0
+ORD0088,2026-06-13,Python Basics Book,Books,Da Nang,E-Wallet,2.0,185000.0,0.0
+ORD0089,2026-05-31,Notebook A5,Stationery,Ha Noi,Bank Transfer,7.0,15000.0,0.15
+ORD0090,2026-04-11,Notebook A5,Stationery,Ho Chi Minh,Cash,5.0,15000.0,0.0
+ORD0091,2026-02-27,Stapler,Office Supplies,Da Nang,Cash,2.0,45000.0,0.0
+ORD0092,2026-03-13,Notebook A5,Stationery,Hai Phong,E-Wallet,150.0,15000.0,0.15
+ORD0093,2026-01-05,Highlighter,Stationery,Da Nang,Bank Transfer,7.0,12000.0,0.15
+ORD0094,2026-03-28,Python Basics Book,Books,Ha Noi,Bank Transfer,1.0,185000.0,0.0
+ORD0095,2026-02-22,Calculator,Office Supplies,Ho Chi Minh,Bank Transfer,4.0,250000.0,0.1
+ORD0096,2026-02-01,Sketchbook,Art Supplies,Ha Noi,Cash,1.0,55000.0,0.15
+ORD0097,2026-06-18,Ballpoint Pen,Stationery,Ho Chi Minh,Cash,2.0,5000.0,0.15
+ORD0099,2026-05-28,Sticky Notes,Stationery,Ha Noi,Cash,10.0,18000.0,0.15
+ORD0100,2026-05-19,File Folder,Office Supplies,Ha Noi,Bank Transfer,2.0,22000.0,0.0
+ORD0101,2026-01-17,Sketchbook,Art Supplies,Ho Chi Minh,E-Wallet,3.0,55000.0,0.0
+ORD0102,2026-04-09,Ballpoint Pen,Stationery,Da Nang,Cash,6.0,5000.0,0.15
+ORD0103,2026-06-02,Ballpoint Pen,Stationery,Ha Noi,E-Wallet,11.0,5000.0,0.0
+ORD0105,2026-03-13,Ballpoint Pen,Stationery,Ha Noi,E-Wallet,4.0,5000.0,0.1
+ORD0106,2026-06-11,Watercolor Set,Art Supplies,Can Tho,E-Wallet,1.0,95000.0,0.0
+ORD0107,2026-02-16,Watercolor Set,Art Supplies,Can Tho,Cash,4.0,95000.0,0.0
+ORD0109,2026-03-31,Ballpoint Pen,Stationery,Can Tho,Cash,5.0,5000.0,0.0
+ORD0110,2026-02-06,English Grammar Book,Books,Da Nang,E-Wallet,3.0,120000.0,0.1
+ORD0111,2026-04-16,File Folder,Office Supplies,Ho Chi Minh,Cash,5.0,22000.0,0.0
+ORD0112,2026-05-15,Watercolor Set,Art Supplies,Can Tho,Bank Transfer,1.0,95000.0,0.0
+ORD0113,2026-02-22,Ballpoint Pen,Stationery,Unknown,Cash,12.0,5000.0,0.05
+ORD0114,2026-02-09,File Folder,Office Supplies,Ha Noi,E-Wallet,4.0,22000.0,0.0
+ORD0115,2026-04-09,Notebook A5,Stationery,Hai Phong,Bank Transfer,11.0,15000.0,0.0
+ORD0116,2026-04-11,English Grammar Book,Books,Da Nang,E-Wallet,3.0,120000.0,0.0
+ORD0117,2026-04-17,Sketchbook,Art Supplies,Ha Noi,E-Wallet,1.0,55000.0,0.0
+ORD0118,2026-02-23,Sketchbook,Art Supplies,Hai Phong,E-Wallet,8.0,55000.0,0.0
+ORD0119,2026-01-31,Highlighter,Stationery,Hai Phong,E-Wallet,60.0,12000.0,0.15
+ORD0120,2026-05-22,English Grammar Book,Books,Da Nang,Bank Transfer,1.0,120000.0,0.0
+ORD0121,2026-06-03,Python Basics Book,Books,Da Nang,Cash,2.0,185000.0,0.15
+ORD0122,2026-01-29,English Grammar Book,Books,Ho Chi Minh,Bank Transfer,4.0,120000.0,0.0
+ORD0123,2026-06-09,Watercolor Set,Art Supplies,Ho Chi Minh,Bank Transfer,1.0,95000.0,0.15
+ORD0124,2026-06-19,Python Basics Book,Books,Ha Noi,Cash,4.0,185000.0,0.15
+ORD0126,2026-05-31,File Folder,Office Supplies,Ha Noi,E-Wallet,2.0,22000.0,0.0
+ORD0127,2026-05-02,Stapler,Office Supplies,Hai Phong,E-Wallet,1.0,45000.0,0.0
+ORD0128,2026-04-05,Python Basics Book,Books,Ho Chi Minh,Cash,4.0,185000.0,0.05
+ORD0129,2026-01-11,English Grammar Book,Books,Ho Chi Minh,E-Wallet,3.0,120000.0,0.0
+ORD0131,2026-01-24,Python Basics Book,Books,Can Tho,Cash,4.0,185000.0,0.0
+ORD0132,2026-06-15,Sticky Notes,Stationery,Hai Phong,Cash,7.0,18000.0,0.05
+ORD0133,2026-01-27,Notebook A5,Stationery,Da Nang,Bank Transfer,13.0,15000.0,0.0
+ORD0134,2026-05-23,Ballpoint Pen,Stationery,Da Nang,Bank Transfer,14.0,5000.0,0.05
+ORD0136,2026-02-09,Python Basics Book,Books,Hai Phong,Cash,1.0,185000.0,0.05
+ORD0137,2026-05-04,Calculator,Office Supplies,Can Tho,Bank Transfer,2.0,250000.0,0.0
+ORD0138,2026-03-04,File Folder,Office Supplies,Ho Chi Minh,E-Wallet,4.0,22000.0,0.0
+ORD0139,2026-05-30,Calculator,Office Supplies,Ha Noi,E-Wallet,4.0,250000.0,0.0
+ORD0140,2026-05-02,Notebook A5,Stationery,Hai Phong,Bank Transfer,11.0,15000.0,0.1
+ORD0141,2026-04-16,File Folder,Office Supplies,Can Tho,Bank Transfer,70.0,22000.0,0.15
+ORD0142,2026-04-03,Sketchbook,Art Supplies,Da Nang,Cash,8.0,55000.0,0.1
+ORD0143,2026-05-27,Highlighter,Stationery,Ha Noi,Cash,2.0,12000.0,0.1
+ORD0144,2026-01-14,Notebook A5,Stationery,Hai Phong,Bank Transfer,2.0,15000.0,0.05
+ORD0145,2026-01-24,File Folder,Office Supplies,Can Tho,E-Wallet,4.0,22000.0,0.0
+ORD0147,2026-06-23,Watercolor Set,Art Supplies,Can Tho,Bank Transfer,1.0,95000.0,0.0
+ORD0148,2026-01-15,English Grammar Book,Books,Hai Phong,Cash,3.0,120000.0,0.0
+ORD0149,2026-06-18,Notebook A5,Stationery,Hai Phong,Cash,9.0,15000.0,0.15
+ORD0150,2026-03-14,Calculator,Office Supplies,Ha Noi,Bank Transfer,4.0,250000.0,0.1

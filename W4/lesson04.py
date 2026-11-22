@@ -136,3 +136,7 @@ print("Average Python:", df["Python"].mean())
 print("Average Pandas:", df["Pandas"].mean())
 print("Highest Average:", df["Average"].max())
 print("Lowest Average:", df["Average"].min())
+
+# xuat du lieu sau khi xu ly
+df.to_csv("output.csv", index=False, encoding="utf-8")
+
